@@ -8,7 +8,7 @@ while True:
     print("4: Mostrar cantidad total de tareas")
     print("5: Salir, gracias ")
 
-    opcion = input("Ingresa el número de la opción que deseas realizar: ")
+    opcion = input("Ingresa el número de la opción deseada realizar: ")
 
     if opcion == "1":
         tarea = input("Ingresa la tarea por agregar")
